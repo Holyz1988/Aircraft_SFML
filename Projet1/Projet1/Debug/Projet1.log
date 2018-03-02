@@ -1,0 +1,18 @@
+﻿  Game.cpp
+c:\users\adai11\desktop\sfml\sfml_game_developpement\projet1\projet1\game.cpp(25): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+c:\users\adai11\desktop\sfml\sfml_game_developpement\projet1\projet1\game.cpp(25): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\adai11\desktop\sfml\sfml_game_developpement\projet1\projet1\game.cpp(26): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+c:\users\adai11\desktop\sfml\sfml_game_developpement\projet1\projet1\game.cpp(26): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\adai11\desktop\sfml\sfml_game_developpement\projet1\projet1\game.cpp(48): warning C4101: 'event' : variable locale non référencée
+  Génération de code en cours...
+  Compilation en cours...
+  main.cpp
+  Génération de code en cours...
+  LINK : C:\Users\adai11\Desktop\SFML\SFML_Game_developpement\Projet1\Debug\Projet1.exe introuvable ou non gÚnÚrÚ par la derniÞre Údition de liens incrÚmentielleá; Údition de liens complÞte en cours
+Game.obj : error LNK2005: "public: class sf::Vector2<float> __thiscall Entity::GetVelocity(void)" (?GetVelocity@Entity@@QAE?AV?$Vector2@M@sf@@XZ) dÚjÓ dÚfini(e) dans AirCraft.obj
+Game.obj : error LNK2005: "public: void __thiscall Entity::SetVelocity(float,float)" (?SetVelocity@Entity@@QAEXMM@Z) dÚjÓ dÚfini(e) dans AirCraft.obj
+Game.obj : error LNK2005: "public: void __thiscall Entity::SetVelocity(class sf::Vector2<float>)" (?SetVelocity@Entity@@QAEXV?$Vector2@M@sf@@@Z) dÚjÓ dÚfini(e) dans AirCraft.obj
+main.obj : error LNK2005: "public: class sf::Vector2<float> __thiscall Entity::GetVelocity(void)" (?GetVelocity@Entity@@QAE?AV?$Vector2@M@sf@@XZ) dÚjÓ dÚfini(e) dans AirCraft.obj
+main.obj : error LNK2005: "public: void __thiscall Entity::SetVelocity(float,float)" (?SetVelocity@Entity@@QAEXMM@Z) dÚjÓ dÚfini(e) dans AirCraft.obj
+main.obj : error LNK2005: "public: void __thiscall Entity::SetVelocity(class sf::Vector2<float>)" (?SetVelocity@Entity@@QAEXV?$Vector2@M@sf@@@Z) dÚjÓ dÚfini(e) dans AirCraft.obj
+C:\Users\adai11\Desktop\SFML\SFML_Game_developpement\Projet1\Debug\Projet1.exe : fatal error LNK1169: un ou plusieurs symboles dÚfinis Ó diffÚrentes reprises ont ÚtÚ rencontrÚs
